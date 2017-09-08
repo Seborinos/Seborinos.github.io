@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Sebastian Jose Teran Hidalgo
 ---
 # Sebastian Jose Teran Hidalgo
