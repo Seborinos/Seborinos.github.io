@@ -13,7 +13,7 @@ From 2010-2016 I was a PhD student at the [Biostatistics Department](http://sph.
 
 ## Research
 
-My latest research consist of clustering cancer data that comes different Omic sources. For example, we have created a clustering algorithm called assisted ncut (**ANCut**) to cluster gene expression data with the help of regulators like copy number aberrations.
+My latest research consist of clustering cancer data that comes from different Omic sources. For example, we have created a clustering algorithm called assisted ncut (**ANCut**) to cluster gene expression data with the help of regulators like copy number aberrations.
 
 * [Hidalgo, Sebastian J. Teran, Mengyun Wu, and Shuangge Ma. "Assisted clustering of gene expression data using ANCut." *BMC genomics* 18.1 (2017): 623.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5559859/)
 
