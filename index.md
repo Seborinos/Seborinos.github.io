@@ -1,3 +1,7 @@
+---
+title: "Sebastian Jose Teran Hidalgo"
+---
+
 
 sebastian.teranhidalgo@yale.edu
 
