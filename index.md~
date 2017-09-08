@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Sebastian Jose Teran Hidalgo"
 ---
 
